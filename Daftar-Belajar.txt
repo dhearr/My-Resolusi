@@ -1,4 +1,7 @@
 Daftar Belajar
   - Framework Javascript
+    * Angular
+    * VueJs
   - Belajar NodeJs
   - Belajar Backend
+    * Java
